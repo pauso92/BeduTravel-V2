@@ -1,0 +1,11 @@
+
+body {
+        background-image: url('https://ttc.com/wp-content/uploads/2014/08/CoreValues-2500x1250.jpg');
+        background-repeat: no-repeat;
+         object-fit: cover; 
+         
+}
+
+      
+      #button1 {border-radius: 100%;}
+      #button2 {border-radius: 50%;}
