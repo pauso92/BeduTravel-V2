@@ -1,0 +1,44 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.navLogo{
+    background: black;
+    display: grid;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+.raw-12 img{
+    width: 80px;
+    justify-self: center;
+    align-self: center;
+    margin: 0;
+    padding: 0;
+}
+.navVacio{
+    background: rgb(248, 248, 248);
+    display: grid;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+#contTitulo{
+    display: grid;
+    height: 80px;
+}
+.titulo{
+    justify-self:center;
+    align-self: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+.form{
+    display: grid;
+}
+.form button{
+    justify-self: center;
+    /* width: 800px; */
+    margin-bottom: 20px;
+}
