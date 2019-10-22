@@ -42,3 +42,6 @@
     /* width: 800px; */
     margin-bottom: 20px;
 }
+.a{
+    display: grid;
+}
